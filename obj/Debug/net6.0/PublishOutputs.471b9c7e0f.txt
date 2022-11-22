@@ -1,0 +1,7 @@
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\sample2.exe
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\sample2.dll
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\sample2.deps.json
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\sample2.runtimeconfig.json
+C:\Users\Graeme\Repos\sample2\bin\Debug\net6.0\publish\sample2.pdb
